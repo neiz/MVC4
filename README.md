@@ -2,7 +2,7 @@
 =================
 
 
-This is a customized compilation of the standard ASP.NET MVC4 framework.  Since MVC4 is packaged with jQueryUI by default, this has been removed and replaced with Twitter's Bootstrap. 
+This is a customized compilation of the standard ASP.NET MVC4 framework.  Since MVC4 is packaged with jQueryUI by default, this has been removed and replaced with Twitter's Bootstrap. Also includes the jQuery library MVC4 is packaged with (1.6.2) for backwards compatibility, but also has 1.8.2.
 
 The included solutions are:
 
